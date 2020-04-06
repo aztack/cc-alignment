@@ -1,0 +1,20 @@
+#cc-alignment-panel::shadow .header {
+  font-weight: normal;
+}
+#cc-alignment-panel .group {
+  min-width: 420px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#cc-alignment-panel ui-button {
+  height: 32px;
+  width: 32px;
+}
+#cc-alignment-panel ui-button::shadow .inner {
+  padding: 2px;
+}
+#cc-alignment-panel ui-section {
+  margin-bottom: 0; 
+}

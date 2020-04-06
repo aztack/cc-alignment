@@ -1,0 +1,28 @@
+{
+  "name": "cc-alignment",
+  "version": "0.0.1",
+  "description": "",
+  "author": "aztack@163.com",
+  "main": "index.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/i18n:cc-alignment.title": {
+      "command": "Editor.Panel.open",
+      "params": [
+        "cc-alignment"
+      ]
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "i18n:cc-alignment.title",
+    "width": 120,
+    "height": 500
+  },
+  "profiles": {
+    "project": {
+      "docs": "http://docs.cocos.com/creator/manual/zh/",
+      "forum": "http://forum.cocos.com/c/Creator"
+    }
+  }
+}
