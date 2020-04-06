@@ -1,4 +1,4 @@
-# The missing Nodes alignment tool for Cocos Creator
+# The missing nodes alignment tool for Cocos Creator
 
 ## Installation
 
